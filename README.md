@@ -9,3 +9,5 @@ Burnable
 Transferable and Ownership feature.
 
 Tax transaction, Burn and Charity fee.
+
+currently testing and modifying on testnet
