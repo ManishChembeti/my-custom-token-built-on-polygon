@@ -8,4 +8,4 @@ Burnable
 
 Transferable and Ownership feature.
 
-Tax transaction, Burn and Chaeity fee.
+Tax transaction, Burn and Charity fee.
