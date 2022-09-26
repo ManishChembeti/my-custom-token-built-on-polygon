@@ -7,3 +7,5 @@ Mintable
 Burnable 
 
 Transferable and Ownership feature.
+
+Tax transaction, Burn and Chaeity fee.
