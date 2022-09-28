@@ -12,5 +12,4 @@ Tax transaction, Burn and Charity fee.
 
 Features modified and tested on Polygon Testnet.
 
- ![image](https://user-images.githubusercontent.com/59841174/192710356-44cd8b66-c99d-456b-a43a-5b3966d1d560.png)
-
+![bandicam 2022-09-27 23-56-48-198](https://user-images.githubusercontent.com/59841174/192710835-fb72426a-7b3d-431e-9b78-e7a4933b35ab.jpg)
