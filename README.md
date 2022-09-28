@@ -16,7 +16,7 @@
 
 
 
-### Let's look into few of the basic tokenomics I have done for this:
+### 📟 Let's look into few of the basic tokenomics I have done for this:
 
 Token Name: Sephitron
 
@@ -28,7 +28,7 @@ Decimal: 18
 
 Block explorer: https://polygonscan.com
 
-My Metamask Polygon Mainnet Address: 0xD20d252AA46e7Fe9fD2F080Eee0D628FA09fF1b5
+#### 🦊 My Metamask Polygon Mainnet Address: 0xD20d252AA46e7Fe9fD2F080Eee0D628FA09fF1b5
 
 For this token (which is having a total supply of 3 million, Liquidity is done only for the first 10000 tokens on @SushiSwap)
   
