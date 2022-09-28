@@ -56,3 +56,5 @@ Testnet Link: https://mumbai.polygonscan.com/token/0xbf0b628ae696385cdc85b8a6d87
 For newbies, I will try to include most of the contracts for integrating certain features in your custom token. It's great to gather feature contract template files or can use OpenZeppelin or Moralis. Also you can go through the doc which I have attached for a easier way to implement. 
 
 
+
+![finaltokenss](https://user-images.githubusercontent.com/59841174/192758510-d338e60d-8664-4f7b-b387-0199b79452a2.PNG)
