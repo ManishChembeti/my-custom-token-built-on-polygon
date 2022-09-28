@@ -1,6 +1,6 @@
 # my-custom-token-built-on-polygon
 
-Built a polygon token with following features as part of my weekend assignment: 
+#### Built a polygon token with following features as part of my weekend assignment: 
 
 🔺 Mintable
 
