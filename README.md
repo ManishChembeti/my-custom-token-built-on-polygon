@@ -11,3 +11,5 @@ Transferable and Ownership feature.
 Tax transaction, Burn and Charity fee.
 
 currently testing and modifying on testnet
+
+[sephitron-token-features.docx](https://github.com/ManishChembeti/my-custom-token-built-on-polygon/files/9662307/sephitron-token-features.docx)
