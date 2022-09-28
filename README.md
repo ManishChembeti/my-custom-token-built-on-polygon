@@ -18,4 +18,3 @@ For this token (which is having a total supply of 3 million, Liquidity is done o
 
 #### ✔️ Features modified and tested on Polygon Testnet 
 
-[token features and testing.pdf](https://github.com/ManishChembeti/my-custom-token-built-on-polygon/files/9662653/token.features.and.testing.pdf)
