@@ -26,13 +26,15 @@ Decimal: 18
 
 Block explorer: https://polygonscan.com
 
+
+
 For this token (which is having a total supply of 3 million, Liquidity is done only for the first 10000 tokens on @SushiSwap)
 
 
 
 ### ✔️ Features modified and tested on Polygon Testnet 
 
-
+Testnet Link: https://mumbai.polygonscan.com/token/0xbf0b628ae696385cdc85b8a6d87bc731dda47ef8
 
 
 
