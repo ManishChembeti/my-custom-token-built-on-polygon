@@ -10,6 +10,7 @@ Transferable and Ownership feature.
 
 Tax transaction, Burn and Charity fee.
 
+Providing Liquidity. For this token (which is having a total supply of 3 Million, I have given liquidity for first 10000 tokens on @SushiSwap)
+
 Features modified and tested on Polygon Testnet.
 
-![bandicam 2022-09-27 23-56-48-198](https://user-images.githubusercontent.com/59841174/192710835-fb72426a-7b3d-431e-9b78-e7a4933b35ab.jpg)
