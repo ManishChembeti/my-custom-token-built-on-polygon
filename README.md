@@ -10,7 +10,9 @@
 
 🔺 Tax transaction, Burn and Charity fee.
 
-🔺 Providing Liquidity. For this token (which is having a total supply of 3 million, Liquidity is done only for the first 10000 tokens on @SushiSwap)
+🔺 Providing Liquidity. 
+
+For this token (which is having a total supply of 3 million, Liquidity is done only for the first 10000 tokens on @SushiSwap)
 
 
 
